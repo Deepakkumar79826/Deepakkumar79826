@@ -1,4 +1,22 @@
+# 💫 Hi 👋, I'm Deepak Kumar
+**Passionate Software Developer focused on AI, Agentic AI, Automation & Scalable Solutions | Building impactful real-world projects using Python, Java and Modern Technologies 💡**
 
+Email Me 👉 ✉️ **deepak04022@gmail.com** .
+
+- 🔭 **I’m currently working on:** AI & Agentic AI
+- 🌱 **I’m currently learning:** AI Agents
+- 👯 **I’m looking to collaborate on:** Ai Agents
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** deepak04022@gmail.com
+- 😄 **Pronouns:** Deepak 
+- ⚡ **Fun fact:** ☕ Can turn coffee into code
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak_kumar_26__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/deepak-kumar-279bb3271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak04022@gmail.com) 
 
